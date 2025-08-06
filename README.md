@@ -1,6 +1,6 @@
 # Привет! Я Егор 👋
-[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 ### 💻 Технологии
+[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 Со временем раздел обновится...
 ### 🚀 Мои цели
 1. Вспомнить все: Освежить знания по Python
