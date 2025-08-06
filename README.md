@@ -16,3 +16,5 @@
 Со временем раздел обновится...
 ### 🌱 Я сейчас учусь
 - ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)
+
+![](https://komarev.com/ghpvc/?username=EgorLekontsev&style=for-the-badge&color=5d0b0c)
