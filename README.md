@@ -2,7 +2,7 @@
 ### 💻 Технологии
 [![C++](https://img.shields.io/badge/-C%2B%2B-464646?style=flat-square&logo=C%2B%2B)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
-
+[![Numpy](https://img.shields.io/badge/-Numpy-464646??style=flat-square&logo=Numpy)](https://numpy.org/)
 
 Со временем раздел обновится...
 ### 📈 Проекты
