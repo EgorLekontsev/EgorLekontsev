@@ -21,6 +21,5 @@
 
 ### 🌱 Я сейчас учусь
 - ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/syllabus)
-- 
-
+  
 ![](https://komarev.com/ghpvc/?username=EgorLekontsev&style=for-the-badge&color=5d0b0c)
