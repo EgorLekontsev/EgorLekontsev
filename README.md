@@ -17,7 +17,7 @@
 
 >[Python курс для начинающих](https://github.com/EgorLekontsev/EgorLekontsev/blob/main/Python%20для%20начинающих.pdf)
 
->[Яндекс тренировки](https://github.com/EgorLekontsev/EgorLekontsev/blob/main/8f33d977-4e13-492c-a917-c14b4fb76f83.pdf)
+>[Яндекс тренировки. Забег по алгоритмам](https://github.com/EgorLekontsev/EgorLekontsev/blob/main/8f33d977-4e13-492c-a917-c14b4fb76f83.pdf)
 
 
 ### 🌱 Я сейчас учусь
