@@ -2,12 +2,16 @@
 ### 💻 Технологии
 [![C++](https://img.shields.io/badge/-C%2B%2B-464646?style=flat-square&logo=C%2B%2B)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
-
+[![Fastapi](https://img.shields.io/badge/-Fastapi-464646??style=flat-square&logo=Fastapi)](https://fastapi.tiangolo.com/)
+[![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-464646??style=flat-square&logo=Sqlalchemy)](https://www.sqlalchemy.org/)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-464646??style=flat-square&logo=Pydantic)](https://docs.pydantic.dev/latest/)
 
 ### 📈 Пет-проекты
 
 | № | Проект                                                             | Инструменты                           | Краткое описание                                         |
 | - |:------------------------------------------------------------------ |:-------------------------------------:| -------------------------------------------------------- |
+| 1 |[TODO_API](https://github.com/EgorLekontsev/TODO_API)|fastapi, sqlalchemy, pydantic, sqlite|Простое TODO-приложение с backend на FastAPI и лёгким фронтендом на чистом HTML/CSS/JS|
+
 
 ### 📜 Сертификаты
 >[Введение в программирование (С++)](https://github.com/EgorLekontsev/EgorLekontsev/blob/main/Введение%20в%20С%2B%2B.pdf)
