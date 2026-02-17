@@ -11,7 +11,7 @@
 | № | Проект                                                             | Инструменты                           | Краткое описание                                         |
 | - |:------------------------------------------------------------------ |:-------------------------------------:| -------------------------------------------------------- |
 | 1 |[TODO API](https://github.com/EgorLekontsev/TODO_API)|fastapi, sqlalchemy, pydantic|Простое TODO-приложение с backend на FastAPI и лёгким фронтендом на чистом HTML/CSS/JS|
-| 2 |[Сайт-портфолио](https://github.com/EgorLekontsev/EgorLekontsev.github.io)|html, css| Простой одностраничный [сайт-портфолио](EgorLekontsev.github.io)|
+| 2 |[Сайт-портфолио](https://github.com/EgorLekontsev/EgorLekontsev.github.io)|html, css| Простой одностраничный [сайт-портфолио](https://egorlekontsev.github.io/)|
 
 
 
