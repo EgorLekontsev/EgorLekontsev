@@ -5,14 +5,17 @@
 [![Fastapi](https://img.shields.io/badge/-Fastapi-464646??style=flat-square&logo=Fastapi)](https://fastapi.tiangolo.com/)
 [![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-464646??style=flat-square&logo=Sqlalchemy)](https://www.sqlalchemy.org/)
 [![Pydantic](https://img.shields.io/badge/-Pydantic-464646??style=flat-square&logo=Pydantic)](https://docs.pydantic.dev/latest/)
+[![Django](https://img.shields.io/badge/-Django-464646??style=flat-square&logo=Django)](https://www.djangoproject.com/)
+[![SQlite](https://img.shields.io/badge/-SQlite-464646??style=flat-square&logo=SQlite)](https://www.sqlite.org/)
 
 ### 📈 Пет-проекты
 
 | № | Проект                                                             | Инструменты                           | Краткое описание                                         |
 | - |:------------------------------------------------------------------ |:-------------------------------------:| -------------------------------------------------------- |
-| 1 |[TODO API](https://github.com/EgorLekontsev/TODO_API)|fastapi, sqlalchemy, pydantic|Простое TODO-приложение с backend на FastAPI и лёгким фронтендом на чистом HTML/CSS/JS|
+| 1 |[TODO API](https://github.com/EgorLekontsev/TODO_API)|html, css, fastapi, sqlalchemy, pydantic|Простое TODO-приложение с backend на FastAPI и лёгким фронтендом на чистом HTML/CSS/JS|
 | 2 |[Сайт-портфолио](https://github.com/EgorLekontsev/EgorLekontsev.github.io)|html, css| Простой одностраничный [сайт-портфолио](https://egorlekontsev.github.io/)|
-
+| 3 |[Форум на джанго](https://github.com/EgorLekontsev/DjangoForum)|html, css, boostrap, django, sqlite, django-markdownx, django-allauth| Простой, но полноценный форум на Django|
+| 4 |[Мониторинг активов в рублях](https://github.com/EgorLekontsev/crypto-monitor)|html, css, boostrap, fastapi, sqlite, sqlachemy, apscheduler, asyncio| Простой веб-мониторинг цен криптовалют и фиатных валют в рублях|
 
 
 ### 📜 Сертификаты
